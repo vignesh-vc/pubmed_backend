@@ -1,0 +1,179 @@
+PMID- 35291531
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220318
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Electronic)
+IS  - 2168-8184 (Linking)
+VI  - 14
+IP  - 2
+DP  - 2022 Feb
+TI  - Thrombotic Thrombocytopenic Purpura: A Tale of Two Cases.
+PG  - e21853
+LID - 10.7759/cureus.21853 [doi]
+LID - e21853
+AB  - Microangiopathic hemolytic anaemia, thrombocytopenia, renal failure, neurologic 
+      abnormalities, and fever form the pentad of thrombotic thrombocytopenic purpura 
+      (TTP). Early diagnosis is crucial because TTP responds well to plasmapheresis 
+      therapy but is associated with substantial mortality if left untreated. A 
+      substantial percentage of patients with TTP used to die from systemic 
+      microvascular thrombosis in the brain and the heart. However, since plasma 
+      exchange therapy became a mainstay in the treatment of TTP, mortality has reduced 
+      considerably. Diagnosing TTP can be difficult due to the vast range of symptoms 
+      and the absence of clearly defined diagnostic criteria. Hemolytic uremic syndrome 
+      and disseminated intravascular coagulation are a close differential of TTP. Here 
+      we report two patients with TTP who achieved remission when treated with 
+      steroids, plasmapheresis and were free of disease relapse till about two months 
+      during follow-up in the outpatient department.
+CI  - Copyright © 2022, Ghogale et al.
+FAU - Ghogale, Prakash R
+AU  - Ghogale PR
+AD  - Nephrology, SSPM Medical College and Lifetime Hospital, Sindhudurg, IND.
+FAU - Pandey, Ashutosh Kumar
+AU  - Pandey AK
+AD  - Anaesthesiology, SSPM Medical College and Lifetime Hospital, Sindhudurg, IND.
+FAU - Praveen, Edavan Pulikkanath
+AU  - Praveen EP
+AD  - Biochemistry, SSPM Medical College and Lifetime Hospital, Sindhudurg, IND.
+FAU - Yadav, Prabhakar
+AU  - Yadav P
+AD  - Nephrology, Tata Main Hospital, Jamshedpur, IND.
+FAU - Pathak, Saurabh
+AU  - Pathak S
+AD  - Nephrology, Tata Main Hospital, Jamshedpur, IND.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20220202
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC8897657
+OTO - NOTNLM
+OT  - microangiopathic haemolytic anaemia
+OT  - plasmapheresis
+OT  - red-cell fragmentation
+OT  - steroids
+OT  - thrombotic thrombocytopenic purpura
+OT  - ttp
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2022/03/17 06:00
+MHDA- 2022/03/17 06:01
+PMCR- 2022/02/02
+CRDT- 2022/03/16 05:10
+PHST- 2022/02/02 00:00 [accepted]
+PHST- 2022/03/16 05:10 [entrez]
+PHST- 2022/03/17 06:00 [pubmed]
+PHST- 2022/03/17 06:01 [medline]
+PHST- 2022/02/02 00:00 [pmc-release]
+AID - 10.7759/cureus.21853 [doi]
+PST - epublish
+SO  - Cureus. 2022 Feb 2;14(2):e21853. doi: 10.7759/cureus.21853. eCollection 2022 Feb.
+
+PMID- 34017668
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240810
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Electronic)
+IS  - 2168-8184 (Linking)
+VI  - 13
+IP  - 5
+DP  - 2021 May 16
+TI  - Changes in β-Cell Function in Offspring of Type-2 Diabetic Patients, as per 
+      Fasting and Two-Hour Plasma Glucose Levels.
+PG  - e15056
+LID - 10.7759/cureus.15056 [doi]
+LID - e15056
+AB  - Background The changes in β-cell function in high-risk populations who are 
+      apparently in the normal glucose tolerant stage are still under investigation for 
+      designing earlier prevention strategies. This study analyzes changes in β-cell 
+      function and insulin sensitivity across fasting and two-hour glucose categories 
+      spanning normal glucose tolerance (NGT) to impaired glucose tolerance (IGT), in 
+      offspring of subjects with type-2 diabetes mellitus (T2DM) compared to the 
+      controls without a known family history of T2DM. Methods Offspring of T2DM 
+      patients (cases) and individuals without a family history of T2DM (controls) were 
+      the subjects for this cross-sectional study. All participants underwent a 75 g 
+      oral glucose tolerance test and blood samples were collected for plasma glucose, 
+      insulin, C-peptide and proinsulin, at zero, 30, 60, and 120 minutes.  Results A 
+      total of 358 cases (age 23.0 ± 10.8 years, 54% males) and 287 controls (age 28.4 
+      ± 8.10 years, 65% males) were the subjects of this study. Cases and controls were 
+      divided into subgroups based on fasting and two-hour glucose categories spanning 
+      NGT to IGT. Compared to the reference category of controls (< 80 mg/dL for 
+      fasting glucose and < 84 mg/dL for two-hour glucose), cases with IGT had ~60% 
+      decline in both β-cell compensation (as measured as disposition index {0-120}) 
+      and insulin sensitivity (as measured as whole-body insulin sensitivity index 
+      {0-120}); adjusted for age, gender, and body mass index. From lower to higher 
+      fasting and two-hour glucose categories, there was a continuous and significant 
+      decline in β-cell compensation in both cases and controls. Significant reduction 
+      in first-phase insulin secretion, as measured as insulinogenic (0-30) index, was 
+      only observed among two-hour glucose categories, not among the fasting glucose 
+      categories. In the transition from late NGT cases to IGT cases, there was a 
+      significant decline in β-cell compensation, first-phase insulin secretion (more 
+      prominent than a decline in overall β-cell secretion) and the changes in 
+      whole-body insulin sensitivity were not statistically significant. Conclusions 
+      The decline in β-cell compensation was continuous and significant in offspring of 
+      subjects with type-2 diabetes and controls without a known family history of 
+      diabetes from early normal glucose tolerant ranges to impaired glucose tolerant 
+      ranges. Compared to the strictest glucose controlled category of controls, 
+      approximately 60% decline was observed in β-cell compensation and insulin 
+      sensitivity, in impaired glucose tolerant offspring of subjects with type-2 
+      diabetes mellitus.
+CI  - Copyright © 2021, Praveen et al.
+FAU - Praveen, Edavan Pulikkanath
+AU  - Praveen EP
+AD  - Biochemistry, Sindhudurg Shikshan Prasarak Mandal (SSPM) Medical College and 
+      Lifetime Hospital, Sindhudurg, IND.
+FAU - Chouhan, Sunil
+AU  - Chouhan S
+AD  - Physiology, All India Institute of Medical Sciences (AIIMS), Bhopal, IND.
+FAU - Sahoo, Jayaprakash
+AU  - Sahoo J
+AD  - Endocrinology, Jawaharlal Institute of Postgraduate Medical Education & Research 
+      (JIPMER), Puducherry, IND.
+FAU - Khadgawat, Rajesh
+AU  - Khadgawat R
+AD  - Endocrinology, All India Institute of Medical Sciences (AIIMS), New Delhi, IND.
+FAU - Khurana, Madan Lal
+AU  - Khurana ML
+AD  - Endocrinology, All India Institute of Medical Sciences (AIIMS), New Delhi, IND.
+FAU - Gupta, Nandita
+AU  - Gupta N
+AD  - Endocrinology, All India Institute of Medical Sciences (AIIMS), New Delhi, IND.
+FAU - Dwivedi, Sada Nand
+AU  - Dwivedi SN
+AD  - Biostatistics, All India Institute of Medical Sciences (AIIMS), New Delhi, IND.
+FAU - Kulshreshtha, Bindu
+AU  - Kulshreshtha B
+AD  - Endocrinology, Atal Bihari Vajpayee Institute of Medical Sciences (ABVIMS), New 
+      Delhi, IND.
+LA  - eng
+PT  - Journal Article
+DEP - 20210516
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC8128715
+OTO - NOTNLM
+OT  - continuum
+OT  - fasting glucose categories
+OT  - first-phase insulin secretion
+OT  - insulin sensitivity
+OT  - offspring of subjects with t2dm
+OT  - two-hour glucose categories
+OT  - β-cell compensation
+OT  - β-cell secretion
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2021/05/22 06:00
+MHDA- 2021/05/22 06:01
+PMCR- 2021/05/16
+CRDT- 2021/05/21 06:33
+PHST- 2021/05/21 06:33 [entrez]
+PHST- 2021/05/22 06:00 [pubmed]
+PHST- 2021/05/22 06:01 [medline]
+PHST- 2021/05/16 00:00 [pmc-release]
+AID - 10.7759/cureus.15056 [doi]
+PST - epublish
+SO  - Cureus. 2021 May 16;13(5):e15056. doi: 10.7759/cureus.15056.
