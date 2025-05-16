@@ -1,10 +1,14 @@
 from flask import Flask, request, send_file, jsonify
 from flask_cors import CORS
+from dotenv import load_dotenv
 import os
 import tempfile
 from datetime import datetime
 from pubmed_pdf_downloader import process_excel
 import logging
+
+# Load environment variables from .env file
+load_dotenv()
 
 app = Flask(__name__)
 CORS(app)
@@ -49,7 +53,7 @@ def upload_and_process():
             return send_file(
                 output_path,
                 as_attachment=True,
-                download_name='Pubs_Updated.xlsx',  # Static download name
+                download_name='Pubs_Updated.xlsx',
                 mimetype='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
             )
         else:
@@ -60,6 +64,7 @@ def upload_and_process():
         logging.error(f"Error processing file: {str(e)}")
         return jsonify({'error': str(e)}), 500
 
-
 if __name__ == "__main__":
-    app.run(debug=True)
+    debug_mode = os.getenv("DEBUG", "False").lower() == "true"
+    port = int(os.getenv("PORT", 5000))
+    app.run(debug=debug_mode, port=port, host="0.0.0.0")
